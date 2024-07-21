@@ -22,6 +22,7 @@ body {
 .box {
   position: relative;
   width: 380px;
+  max-width: 420px;
   height: 420px;
   background: #1c1c1c;
   border-radius: 8px;
@@ -75,6 +76,7 @@ body {
   }
 }
 .box form {
+  max-width: 420px;
   position: absolute;
   inset: 4px;
   background: #222;
@@ -228,6 +230,7 @@ body {
 .register {
   position: relative;
   width: 380px;
+  max-width: 420px;
   height: 580px;
   background: #1c1c1c;
   border-radius: 8px;
@@ -281,6 +284,7 @@ body {
   }
 }
 .register form {
+  max-width: 420px;
   position: absolute;
   inset: 4px;
   background: #222;
@@ -436,6 +440,7 @@ body {
 .forgot {
   position: relative;
   width: 380px;
+  max-width: 420px;
   height: 420px;
   background: #1c1c1c;
   border-radius: 8px;
@@ -489,6 +494,7 @@ body {
   }
 }
 .forgot form {
+  max-width: 420px;
   position: absolute;
   inset: 4px;
   background: #222;
