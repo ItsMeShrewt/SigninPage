@@ -228,7 +228,7 @@ body {
 .register {
   position: relative;
   width: 380px;
-  height: 560px;
+  height: 580px;
   background: #1c1c1c;
   border-radius: 8px;
   overflow: hidden;
@@ -239,7 +239,7 @@ body {
   top: -50%;
   left: -50%;
   width: 380px;
-  height: 560px;
+  height: 580px;
   background: linear-gradient(
     0deg,
     transparent,
@@ -258,7 +258,7 @@ body {
   top: -50%;
   left: -50%;
   width: 380px;
-  height: 560px;
+  height: 580px;
   background: linear-gradient(
     0deg,
     transparent,
@@ -396,7 +396,7 @@ body {
   top: -50%;
   left: -50%;
   width: 380px;
-  height: 560px;
+  height: 580px;
   background: linear-gradient(
     0deg,
     transparent,
@@ -416,7 +416,7 @@ body {
   top: -50%;
   left: -50%;
   width: 380px;
-  height: 560px;
+  height: 580px;
   background: linear-gradient(
     0deg,
     transparent,
